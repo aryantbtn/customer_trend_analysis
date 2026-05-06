@@ -2,7 +2,7 @@
 ### Transforming Raw Data into Actionable Insights
 
 <p align="center">
-  <img src="./customer_behaviour_dashboard.png" alt="Customer Behaviour Dashboard" width="900"/>
+  <img src="./Data Analytics.png" alt="Customer Behaviour Dashboard" width="900"/>
 </p>
 
 ---
